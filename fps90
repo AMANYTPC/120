@@ -1,0 +1,10 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# Change to the directory where your tool is located
+cd 120/120
+
+# Permission
+chmod +x fps90
+chmod +x 12f
+
+# Run the tool
+./fps90

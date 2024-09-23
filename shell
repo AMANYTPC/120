@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Define the configuration file (change to .zshrc if you use zsh)
+CONFIG_FILE="$HOME/.bashrc"
+
+# Command to add
+EXPORT_CMD='export LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib'
+
+# Check if the command is already in the file
+if ! grep -qxF "$EXPORT_CMD" "$CONFIG_FILE"; then
+  # Add the command to the file if not present
+  echo "$EXPORT_CMD" >> "$CONFIG_FILE"
+  echo "Added export command to $CONFIG_FILE"
+else
+  echo "Export command already exists in $CONFIG_FILE"
+fi
+
+# Reload the configuration file to apply changes immediately
+source "$CONFIG_FILE"
