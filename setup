@@ -2,7 +2,6 @@
 
 # Exit immediately if a command exits with a non-zero status
 set -e
-bash shell
 mv $HOME/120/fps90 /data/data/com.termux/files/usr/bin/
 echo "ONE TIME DONE"
 chmod +x /data/data/com.termux/files/usr/bin/fps90
