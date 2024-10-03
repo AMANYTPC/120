@@ -1,7 +1,7 @@
 
 # 120-90 FPS MAKING TOOL(TERMUX)
 
-This project is developed by AmanYT2 for the help of people who purchases 90fps or 120fps paks for money this is not the final update it is still under testing.. support us on telegram AMANYTPC
+This Project Is Developed By Amanyt2 For The Help Of People Who Purchases 90fps Or 120fps Paks For Money This Is Not The Final Update It Is Still Under Testing.. Support Us On Telegram Amanytpc
 
 
 ## Installation
@@ -9,7 +9,7 @@ This project is developed by AmanYT2 for the help of people who purchases 90fps 
 Install my-project using termux
 
 ```bash
-git clone
+git clone https://github.com/AMANYTPC/120
  
 cd 120
 
