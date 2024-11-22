@@ -14,4 +14,4 @@ pkg install -y zip || { echo "Failed to install zip"; exit 1; }
 pkg install -y unzip || { echo "Failed to install unzip"; exit 1; }
 pkg install -y python || { echo "Failed to install python"; exit 1; }
 pkg install -y python-pip || { echo "Failed to install python-pip"; exit 1; }
-
+cd
