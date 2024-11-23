@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=6000&pause=700&color=00FF00&center=true&vCenter=true&width=1000&height=70&lines=AMANYT+FPS+UNLOCKER;UNLEASH+MAX+FPS+IN+ANY+GAME)](https://git.io/typing-svg)
+
 120/90 FPS MAKER FOR PUBG MOBILE AND BGMI
 
 # 120-90 FPS MAKING TOOL(TERMUX)
