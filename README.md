@@ -28,6 +28,10 @@ git clone https://github.com/AMANYTPC/120
 cd 120
 
 bash setup
+
+cd
+
+fps90
 ```
     
 ## Run Command/ Boot
