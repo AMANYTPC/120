@@ -51,7 +51,7 @@ fps90
 
 #### WHICH GAMES IT SUPPORT?
 
-It Support 3.4 Version Of Pubg All Versions And Bgmi
+It Support 3.5 Version Of Pubg All Versions And Bgmi
 
 #### IS IT WORKING ON ALL DEVICES
 
