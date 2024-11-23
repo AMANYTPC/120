@@ -14,10 +14,6 @@ Update Using this if you have tool installed
 rm -rf 120
 
 git clone https://github.com/AMANYTPC/120
- 
-cd 120
-
-cd
 
 fps90
 ```
