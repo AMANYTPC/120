@@ -6,6 +6,21 @@
 
 This Project Is Developed By Amanyt2 For The Help Of People Who Purchases 90fps Or 120fps Paks For Money This Is Not The Final Update It Is Still Under Testing.. Support Us On Telegram Amanytpc
 
+## Updating
+
+Update Using this if you have tool installed
+
+```bash
+rm -rf 120
+
+git clone https://github.com/AMANYTPC/120
+ 
+cd 120
+
+cd
+
+fps90
+```
 
 ## Installation
 
